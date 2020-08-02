@@ -1,4 +1,4 @@
-This is a complete CRUD application using ES2015 
+This is a complete CRUD application using ES2015 and ES6 syntax
 uses Babel  and webpack to translate code for workflow
 uses import/export modules
 uses json-server for backend data storage
