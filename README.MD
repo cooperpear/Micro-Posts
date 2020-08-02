@@ -1,6 +1,9 @@
 This is a complete CRUD application using ES2015 
 uses Babel  and webpack to translate code for workflow
 uses import/export modules
+uses json-server for backend data storage
+full stack program
+uses a mimicked REST API
 "Cheap Twitter"
 
 
