@@ -10,5 +10,5 @@ uses a mimicked REST API
 
 Usage:
 Install packages: run "npm install" in node.js terminal to install primary packages
-run "npm build" to install Babel packages
+run "npm build" to run Babel packages
 run "npm start" to begin a local server and start the application 
